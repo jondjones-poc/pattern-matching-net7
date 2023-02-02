@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pattern-matching", "pattern-matching.csproj", "{4D49FCEC-B3EA-401B-A544-23D87F534237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D49FCEC-B3EA-401B-A544-23D87F534237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D49FCEC-B3EA-401B-A544-23D87F534237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D49FCEC-B3EA-401B-A544-23D87F534237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D49FCEC-B3EA-401B-A544-23D87F534237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DB071DC-936E-4FD9-9EB2-AAF4068D77B8}
+	EndGlobalSection
+EndGlobal
